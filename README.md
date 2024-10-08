@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AtulAravindDas
+- 👋 Hi, I’m @DazzedUpDas
 - 👀 I’m interested in Machine Learning, Data Analysis and Data Science
 - 💞️ I’m looking to collaborate on projects based on Image processing, Financial Analysis and Sports Analysis
 - 📫 How to reach me: LinkedIn: https://www.linkedin.com/in/atul-a-das Handshake: https://bu.joinhandshake.com/profiles/59776992
